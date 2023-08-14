@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 My name is Isaac Quintanilla Salinas, and I am an Assistant Professor of Statistics at [CSU Channel Islands](https://www.csuci.edu/). My primary research is on developing joint longitudinal-survival models; however, I work on several research projects as a statistician.
+
+In addition to working on research projects, I am currently working on developing R packages related to statistics education and time-varying coefficient models. 
